@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-677c7d9c","path":"/guide/es6%E5%85%B3%E9%94%AE%E5%AD%97yield%E7%9A%84%E7%94%A8%E6%B3%95.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"guide/es6关键字yield的用法.md"}');export{e as data};
